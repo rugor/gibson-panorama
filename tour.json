@@ -1,7 +1,8 @@
 {
   "default": {
     "firstScene": "entry",
-    "sceneFadeDuration": 1000
+    "sceneFadeDuration": 1000,
+    "mouseZoom": false
   },
   "scenes": {
     "entry": {
