@@ -28,7 +28,7 @@
           "yaw": 198.1,
           "type": "scene",
           "sceneId": "entry",
-          "targetYaw": -23,
+          "targetYaw": 157,
           "targetPitch": 2
         },
         {
@@ -51,7 +51,7 @@
         "yaw": 0,
         "type": "scene",
         "sceneId": "middle",
-        "targetYaw": -23,
+        "targetYaw": 198.1,
         "targetPitch": 2
       }]
     }
